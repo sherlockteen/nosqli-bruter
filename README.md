@@ -5,7 +5,7 @@ Red Team Tool для автоматизированного подбора па�
 ## Установка
 
 ```bash
-git clone https://github.com/yourusername/nosqli-bruter
+git clone https://github.com/sherlockteen/nosqli-bruter
 cd nosqli-bruter
 pip3 install -r requirements.txt --break-system-packages
 python3 setup.py install
